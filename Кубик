@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Векторная графика</title>
+</head>
+<body>
+<h3>Кубик</h3>
+<svg width="280" height="360">
+<polygon points="140,180 55,0 140,0 140,360 225,360" fill="SlateBlue"/>
+<polygon points="140,180 140,0 225,0 140,180 55,360 140,360" fill="MediumSlateBlue"/>
+<polygon points="140,180 0,305 0,360 55,360 140,180 225,0 280,0 280,55" fill="SlateBlue"/>
+<polygon points="140,180 0,55 0,0 55,0 140,180 225,360 280,360 ,280, 305" fill="MediumSlateBlue"/>
+<polygon points="140,180 0,40 0,120 140,180 280,320 280,240" fill="SlateBlue"/>
+<polygon points="140,180 0,320 0,240 140,180 280,40 280,120" fill="MediumSlateBlue"/>
+<polygon points="140,180 0,180 0,240 280,120 280,180" fill="SlateBlue"/>
+<polygon points="140,180 0,180 0,120 280,240 280,180" fill="MediumSlateBlue"/>
+<circle r="72" cx="140" cy="180" fill="MidnightBlue" />
+<circle r="70" cx="140" cy="180" fill="OrangeRed" />
+<polygon points="140,180 100,200 140,220 180,200"  fill="FireBrick"/>
+<polygon points="140,202 98,182 98,118 140,98 182,118 182,182"  fill="MidnightBlue"/>
+<polygon points="140,200 100,180 100,120 140,100 180,120 180,180"  fill="White"/>
+<polygon points="88,187 88,122 132,143 132,208"  fill="MidnightBlue"/>
+<polygon points="90,185 90,125 130,145 130,205"  fill="MediumBlue"/>
+<polygon points="148,208 148,143 192,122 192,187"  fill="MidnightBlue"/>
+<polygon points="150,205 150,145 190,125 190,185"  fill="DarkOrange"/>
+<polygon points="140,88 183,110 140,132 97,110"  fill="MidnightBlue"/>
+<polygon points="140,90 180,110 140,130 100,110"  fill="PowderBlue"/>
+<polygon points="95,160 95,170 105,180 125,160 125,150 105,170"  fill="SpringGreen"/>
+
+</svg>
+</body>
+</html>
