@@ -26,6 +26,8 @@
 <polygon points="140,88 183,110 140,132 97,110"  fill="MidnightBlue"/>
 <polygon points="140,90 180,110 140,130 100,110"  fill="PowderBlue"/>
 <polygon points="95,160 95,170 105,180 125,160 125,150 105,170"  fill="SpringGreen"/>
+<polygon points="160,160 160,170 170,180 180,160 180,147 169,170"  fill="MediumBlue"/>
+<polygon points="137,110 137,102 129,105 129,117 157,112 160,105 "  fill="MidnightBlue"/>
 
 </svg>
 </body>
